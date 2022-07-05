@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>OEMS</title>
-  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="OEMS  favicon (1) copy.png">
 </head>
 <body>
 
