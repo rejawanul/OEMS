@@ -5,6 +5,7 @@
   <link rel="icon" type="image/x-icon" href="OEMS  favicon (1) copy.png">
 </head>
 <body>
+  <style>background-color</style>
 
 <h1>This is a Heading</h1>
 <h1>This is a Heading</h1>
