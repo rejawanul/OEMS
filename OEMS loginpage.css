@@ -1,0 +1,59 @@
+input[type=text] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px;
+    box-sizing: border-box;
+    border: 2px solid rgb(88, 236, 255);
+    border-radius: 30px;
+    }
+.inline{
+    display: inline;
+    margin-left: 10%;
+    width: 50%;
+}
+.Form_section
+{
+    display: inline-block;
+    margin: 0%;
+    width: 50%;
+    top :auto;
+    padding: center;
+}
+.outline
+{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    display: block;
+    background: rgb(119, 0, 255);
+    height: 80%;
+    width: 70%;
+    
+}
+.Login_form
+{
+    display: inline;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+
+}
+
+body
+{
+    height: auto;
+    width: auto;
+}
+
+.content {
+    position: absolute;
+    display: block;
+    background: rgb(119, 0, 255);
+    left: 50%;
+    top: 50%;
+    height: 80%;
+    width: 70%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
